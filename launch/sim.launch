@@ -2,6 +2,7 @@
    <param name="vehicle" type="str" value="/quadrotor"/>     
    <node name="nan_publish" pkg="nan_publisher" type="quadrotor_path" output="screen">
    </node>
+<!-- yoyo -->
 </launch>
 
 
